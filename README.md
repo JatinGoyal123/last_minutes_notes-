@@ -29,3 +29,5 @@ Home             |  Signup
 Profile             |  User Posts
 :-------------------------:|:-------------------------:
 ![](https://github.com/manishmotwani2002/RTU-Notes/blob/main/screenshots/profile.PNG)  |  ![](https://github.com/manishmotwani2002/RTU-Notes/blob/main/screenshots/profile%20posts.PNG)
+
+CopyRight @JatinGoyal,COE,Thapar Institute of Engineering and Technology.
